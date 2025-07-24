@@ -7,8 +7,7 @@
 
 ชื่อ-สกุล :นางสาวบารียา สะนิ
 
-GitHub Page URL : https://github.com/cpe207-2568/lecture07-2568-starter.git
-
+GitHub Page URL :https://github.com/cpe207-2568/lab07v2-Bbareeya0405.git
 ---
 
 ให้นักศึกษาสร้างหน้าเว็บ frontend สำหรับการใช้ลงทะเบียนอย่างง่ายด้วยความรู้เรื่อง HTML, CSS และ JavaScript ตามรายละเอียดด้านล่างนี้
