@@ -3,11 +3,11 @@
 
 ### ป้อนข้อมูลนักศึกษา
 
-รหัส นศ.:
+รหัส นศ.:670610713
 
-ชื่อ-สกุล :
+ชื่อ-สกุล :นางสาวบารียา สะนิ
 
-GitHub Page URL :
+GitHub Page URL : https://github.com/cpe207-2568/lecture07-2568-starter.git
 
 ---
 
